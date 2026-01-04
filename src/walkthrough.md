@@ -842,7 +842,7 @@
 ##### Evening
 * Ask Chihaya for a Luck Reading (Y5000) (Boost Kindness)
 * Feed plant Mega Fertilizer (Kindness +7)
-* Temperance Rank 10 (Y5000)
+* Temperance Rank 10
 
 ---
 #### Sat 7/9
